@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tyron Bechayda and I'm an aspiring software/web developer, from Philippines.</h2>
+<h2 align="left">Hi! 👋 My name is Tyron Bechayda and I'm an aspiring software/web developer, from Philippines.</h2>
 
 ###
 
