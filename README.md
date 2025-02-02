@@ -56,13 +56,15 @@
   <a href="https://www.instagram.com/ty.__.bech?igsh=dzgxanlpdnNkZjZr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
   </a>
+  <!--
   <a href="tyron_bech#8166" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="discord logo"  />
   </a>
   <a href="tyronbechayda1112@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/tyronbechayda1112" target="_blank">
+  -->
+  <a href="https://www.linkedin.com/in/tyronbechayda1112/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/tyronbechayda111" target="_blank">
