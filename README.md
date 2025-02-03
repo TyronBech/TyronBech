@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-I'm Tyron Bechayda from the Philippines<br><br>
+I'm Tyron Bechayda from Philippines<br><br>
 - 👨‍🎓 I’m currently a BSIT student at Polytechnic University of the Philippines Taguig Branch<br>
 - 📚 I'm currently learning Laravel, Tailwind CSS, jQuery, and MySQL<br>
 - ⚡ I have interest in 3D art and in my spare time I create projects in Blender</p>
