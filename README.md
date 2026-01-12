@@ -1,9 +1,11 @@
 <div align="center">
   <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdxMjhzNDVwcjVlMHY0ZXJlNWs1a2IwMm9iYWZ5cDYyOGZmMjluZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckr4W2ppxPBeIF8dx4/giphy.gif" />
 </div>
-<h1>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=aptos&weight=600&size=30&duration=4000&pause=1000&color=421EF7&center=true&vCenter=true&width=435&lines=Tyron+Bechayda+%3A))](https://git.io/typing-svg)
-</h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=aptos&weight=600&size=30&duration=4000&pause=1000&color=421EF7&center=true&vCenter=true&width=435&lines=Tyron+Bechayda+%3A)" alt="Typing SVG" /></a>
+</div>
+
 <h1>💫 About Me</h1>
 <p align="left">
   🔭 I’m currently working on <b>a Laravel Library Management System and my tasks as a Full Stack Intern.</b><br>
