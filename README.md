@@ -1,38 +1,13 @@
-<div align="center">
-  <h1>💫 About Me</h1>
-  <p align="center">
-    🔭 I’m currently working on <b>a Laravel Library Management System and my tasks as a Full Stack Intern.</b><br>
-    👯 I’m looking to collaborate on <b>PHP/Laravel open-source projects or web apps incorporating 3D elements.</b><br>
-    🤝 I’m looking for help with <b>mastering modern JavaScript frameworks like React.</b><br>
-    🌱 I’m currently learning <b>React.js, Tailwind CSS, and frontend modern design.</b><br>
-    💬 Ask me about <b>PHP, Bootstrap, 3D modeling, and system backups.</b><br>
-    ⚡ Fun fact <b>I balance coding with 3D art creation in Blender and reading self-improvement books.</b>
-  </p>
-</div>
 
-<br>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>👨‍💻 Profile</h3>
-      <p>
-        I'm an aspiring developer from the <b>Philippines</b>.<br><br>
-        👨‍🎓 <b>Education:</b> BSIT at PUP Taguig<br>
-        🏢 <b>Role:</b> Intern Full Stack Dev<br>
-        💻 <b>Stack:</b> Laravel, PHP, MySQL, Bootstrap<br>
-        🎨 <b>Creative:</b> Blender & 3D Art<br>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🚀 Stats</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TyronBech&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide_title=true" width="100%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TyronBech&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide_title=true" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
+<h1>💫 About Me</h1>
+<p align="center">
+  🔭 I’m currently working on <b>a Laravel Library Management System and my tasks as a Full Stack Intern.</b><br>
+  👯 I’m looking to collaborate on <b>PHP/Laravel open-source projects or web apps incorporating 3D elements.</b><br>
+  🤝 I’m looking for help with <b>mastering modern JavaScript frameworks like React.</b><br>
+  🌱 I’m currently learning <b>React.js, Tailwind CSS, and frontend modern design.</b><br>
+  💬 Ask me about <b>PHP, Bootstrap, 3D modeling, and system backups.</b><br>
+  ⚡ Fun fact <b>I balance coding with 3D art creation in Blender and reading self-improvement books.</b>
+</p>
 
 ### 🛠 Tech Stack
 
