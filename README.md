@@ -1,6 +1,8 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdxMjhzNDVwcjVlMHY0ZXJlNWs1a2IwMm9iYWZ5cDYyOGZmMjluZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckr4W2ppxPBeIF8dx4/giphy.gif" />
+<div align="center">
+  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdxMjhzNDVwcjVlMHY0ZXJlNWs1a2IwMm9iYWZ5cDYyOGZmMjluZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckr4W2ppxPBeIF8dx4/giphy.gif" />
+</div
 <h1>💫 About Me</h1>
-<p align="center">
+<p align="left">
   🔭 I’m currently working on <b>a Laravel Library Management System and my tasks as a Full Stack Intern.</b><br>
   👯 I’m looking to collaborate on <b>PHP/Laravel open-source projects or web apps incorporating 3D elements.</b><br>
   🤝 I’m looking for help with <b>mastering modern JavaScript frameworks like React.</b><br>
