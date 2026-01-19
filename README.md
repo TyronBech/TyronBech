@@ -8,12 +8,11 @@
 
 <h1>💫 About Me</h1>
 <p align="left">
-  🔭 I’m currently working on <b>a Laravel Library Management System and my tasks as a Full Stack Intern.</b><br>
-  👯 I’m looking to collaborate on <b>PHP/Laravel open-source projects or web apps incorporating 3D elements.</b><br>
-  🤝 I’m looking for help with <b>mastering modern JavaScript frameworks like React.</b><br>
+  👨‍🎓 I'm currently a 4th year student taking <b>Bachelor of Science in Information Technology</b><br>
+  🔭 I worked on <b>a Laravel Library Management System and my tasks as a Full Stack Intern.</b><br>
+  👯 I’m looking to collaborate on <b>PHP/Laravel open-source projects or web apps.</b><br>
   🌱 I’m currently learning <b>React.js, Tailwind CSS, and frontend modern design.</b><br>
-  💬 Ask me about <b>PHP, Bootstrap, 3D modeling, and system backups.</b><br>
-  ⚡ Fun fact <b>I balance coding with 3D art creation in Blender and reading self-improvement books.</b>
+  💬 Ask me about <b>PHP, Bootstrap, and system backups.</b><br>
 </p>
 
 ### 🛠 Tech Stack
