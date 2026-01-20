@@ -29,9 +29,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img align="left" width="33%" src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,laravel,mysql,nodejs,npm,react,tailwind,git,github,vscode,java,py,c,cpp,cs&perline=5" alt="Tech Stack" />
+    <img align="left" width="30%" src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,laravel,mysql,nodejs,npm,react,tailwind,git,github,vscode,java,py,c,cpp,cs&perline=5" alt="Tech Stack" />
   </a>
-  <img align="right" width="63%" src="https://nirzak-streak-stats.vercel.app/?user=TyronBech&theme=dracula&hide_border=true" alt="Streak Stats" />
+  <img align="right" width="60%" src="https://nirzak-streak-stats.vercel.app/?user=TyronBech&theme=dracula&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br clear="all">
