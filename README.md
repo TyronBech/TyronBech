@@ -6,6 +6,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=aptos&weight=600&size=30&duration=4000&pause=1000&color=421EF7&center=true&vCenter=true&width=435&lines=Tyron+Bechayda+%3A)" alt="Typing SVG" /></a>
 </div>
 
+<div align="center" style="margin-top: 10px;">
+  <a href="https://tyron-bechayda.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-421EF7?style=for-the-badge" alt="Visit My Website"/>
+  </a>
+</div>
+<br>
+
 <h1>💫 About Me</h1>
 <p align="left">
   👨‍🎓 I'm currently a 4th year student taking <b>Bachelor of Science in Information Technology</b><br>
