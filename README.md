@@ -23,16 +23,36 @@
   &emsp; 💬 Ask me about <b>PHP, Bootstrap, and system backups.</b><br>
 </p>
 
-<div align="left">
-  <h1>&emsp;&nbsp;&nbsp;🛠 Tech Stack&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; 🔥 Streak Stats</h1>
-</div>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img align="left" width="30%" src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,laravel,mysql,nodejs,npm,react,tailwind,git,github,vscode,java,py,c,cpp,cs&perline=5" alt="Tech Stack" />
-  </a>
-  <img align="right" width="60%" src="https://nirzak-streak-stats.vercel.app/?user=TyronBech&theme=dracula&hide_border=true" alt="Streak Stats" />
-</div>
+<table align="center">
+  <tr>
+    <td width="30%" valign="top">
+      <h2 align="center">🛠 Tech Stack</h2>
+      <div align="center">  
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,npm" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs" />
+        </a>
+      </div>
+    </td>
+    <td width="70%" valign="top">
+      <h2 align="center">🔥 Streak Stats</h2>
+      <div align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=TyronBech&theme=dracula&hide_border=true" alt="Streak Stats" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br clear="all">
 <br>
