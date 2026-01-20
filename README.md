@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=aptos&weight=600&size=30&duration=4000&pause=1000&color=421EF7&center=true&vCenter=true&width=435&lines=Tyron+Bechayda+%3A)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=aptos&weight=600&size=30&duration=4000&pause=1000&color=421EF7&center=true&vCenter=true&width=500&lines=Hello!+I'm+Tyron+Bechayda+%3A)" alt="Typing SVG" /></a>
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -22,10 +22,10 @@
   💬 Ask me about <b>PHP, Bootstrap, and system backups.</b><br>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠 Tech Stack</h3>
+<table align="center">
+  <tr style="border: 0;">
+    <td width="30%" valign="middle">
+      <h2 align="center">🛠 Tech Stack</h2>
       <div align="center">  
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />
@@ -44,8 +44,8 @@
         </a>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔥 Streak Stats</h3>
+    <td width="70%" valign="middle">
+      <h2 align="center">🔥 Streak Stats</h2>
       <div align="center">
         <img src="https://nirzak-streak-stats.vercel.app/?user=TyronBech&theme=dracula&hide_border=true" alt="Streak Stats" />
       </div>
