@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdxMjhzNDVwcjVlMHY0ZXJlNWs1a2IwMm9iYWZ5cDYyOGZmMjluZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckr4W2ppxPBeIF8dx4/giphy.gif" />
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center" style="margin-top: 10px;">
   <a href="https://tyron-bechayda.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-421EF7?style=for-the-badge" alt="Visit My Website"/>
+    <img src="https://img.shields.io/badge/My_Portfolio-Visit_Website-421EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Website"/>
   </a>
 </div>
 <br>
@@ -22,32 +22,36 @@
   💬 Ask me about <b>PHP, Bootstrap, and system backups.</b><br>
 </p>
 
-### 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TyronBech&theme=dracula&hide_border=true" />
-</div>
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠 Tech Stack</h3>
+      <div align="center">  
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,npm" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,tailwind,git,github,vscode" />
+        </a>
+        <br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔥 Streak Stats</h3>
+      <div align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=TyronBech&theme=dracula&hide_border=true" alt="Streak Stats" />
+      </div>
+    </td>
+  </tr>
+</table>
 <br>
 
 <img src="https://raw.githubusercontent.com/TyronBech/TyronBech/output/snake.svg" alt="Snake animation" width="100%" />
