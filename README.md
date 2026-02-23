@@ -33,15 +33,12 @@ education: BS Information Technology (4th Year)
 currently_working_on:
   - Laravel Library Management System
   - Full Stack Internship Tasks
-looking_to_collaborate: PHP / Laravel open-source projects or web apps
+  - Personal Portfolio
 currently_learning:
   - React.js
   - Tailwind CSS
   - Modern Frontend Design
-ask_me_about:
-  - PHP & Laravel
-  - Bootstrap
-  - System Backups
+  - Docker
 ```
 
 ---
