@@ -38,7 +38,6 @@ currently_learning:
   - React.js
   - Tailwind CSS
   - Modern Frontend Design
-  - Docker
 ```
 
 ---
@@ -53,7 +52,6 @@ currently_learning:
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,react,tailwind" />
 </a>
 
-<br><br>
 
 **Backend & Database**
 
@@ -61,7 +59,6 @@ currently_learning:
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,npm" />
 </a>
 
-<br><br>
 
 **Languages**
 
@@ -69,7 +66,6 @@ currently_learning:
   <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs" />
 </a>
 
-<br><br>
 
 **Tools**
 
@@ -84,8 +80,8 @@ currently_learning:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TyronBech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=421EF7&icon_color=421EF7&text_color=ffffff&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyronBech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=421EF7&text_color=ffffff&border_radius=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TyronBech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=421EF7&icon_color=421EF7&text_color=ffffff&border_radius=10" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TyronBech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=421EF7&text_color=ffffff&border_radius=10" alt="Top Languages" />
 </div>
 
 <br>
@@ -108,7 +104,7 @@ currently_learning:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=TyronBech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <img width="95%" src="https://github-trophies.vercel.app/?username=TyronBech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
