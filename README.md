@@ -54,14 +54,14 @@ currently_learning:
 **Frontend**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,react,tailwind" />
 </a>
 
 
 **Backend & Database**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,nodejs,npm" />
 </a>
 
 
@@ -75,7 +75,7 @@ currently_learning:
 **Tools**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
 </a>
 
 </div>
