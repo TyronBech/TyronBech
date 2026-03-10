@@ -15,7 +15,7 @@
 <!-- Social/Portfolio Badge -->
 <div align="center">
   <a href="https://tyron-bechayda.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-421EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-421EF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=TyronBech&style=for-the-badge&color=421EF7&label=PROFILE+VIEWS" alt="Profile Views" />
