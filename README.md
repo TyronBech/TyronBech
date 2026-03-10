@@ -34,10 +34,15 @@ currently_working_on:
   - Laravel Library Management System
   - Full Stack Internship Tasks
   - Personal Portfolio
+  - Weather Mobile App
+  - Faculty Attendance System for PUP Taguig
 currently_learning:
   - React.js
   - Tailwind CSS
   - Modern Frontend Design
+  - React Native
+  - Node.js
+  - Docker
 ```
 
 ---
