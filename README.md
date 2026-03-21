@@ -35,10 +35,12 @@ currently_working_on:
   - Full Stack Internship Tasks
   - Personal Portfolio
   - Weather Mobile App
+  - 8-Bit Suite
   - Faculty Attendance System for PUP Taguig
 currently_learning:
   - React.js
   - Tailwind CSS
+  - Python
   - Modern Frontend Design
   - React Native
   - Node.js
