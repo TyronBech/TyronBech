@@ -77,7 +77,7 @@ currently_learning:
 **Tools**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,notion,postman,vscode,androidstudio,docker" />
 </a>
 
 </div>
