@@ -32,9 +32,11 @@ name: Tyron Bechayda
 education: BS Information Technology (4th Year)
 currently_working_on:
   - Laravel Library Management System
+  - Laravel Library Management System Version 2
   - Full Stack Internship Tasks
   - Personal Portfolio
-  - 8-Bit Suite
+  - 8-Bit Suite (Python Game)
+  - Vestro (Financial Tracker Mobile App)
   - Faculty Attendance System for PUP Taguig
 currently_learning:
   - React.js
@@ -44,6 +46,7 @@ currently_learning:
   - React Native
   - Node.js
   - Docker
+  - AWS
 ```
 
 ---
