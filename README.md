@@ -31,8 +31,8 @@
 name: Tyron Bechayda
 education: BS Information Technology (4th Year)
 currently_working_on:
-  - Laravel Library Management System
-  - Laravel Library Management System Version 2
+  - OwlLib (Library Management System)
+  - OwlLib (Library Management System) Version 2
   - Full Stack Internship Tasks
   - Personal Portfolio
   - 8-Bit Suite (Python Game)
