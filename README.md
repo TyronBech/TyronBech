@@ -82,6 +82,12 @@ currently_learning:
   <img src="https://skillicons.dev/icons?i=git,github,notion,postman,vscode,androidstudio,docker" />
 </a>
 
+**Cloud**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,supabase,vercel" />
+</a>
+
 </div>
 
 ---
@@ -94,13 +100,6 @@ currently_learning:
 </div>
 
 <br>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=TyronBech&theme=tokyonight&hide_border=true&background=0D1117&ring=421EF7&fire=421EF7&currStreakLabel=421EF7&border_radius=10" alt="Streak Stats" />
-</div>
-
----
 
 ## 📈 Contribution Activity Graph
 
