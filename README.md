@@ -65,7 +65,7 @@ currently_learning:
 **Backend & Database**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,nodejs,expressjs,npm" />
 </a>
 
 
