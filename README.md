@@ -46,7 +46,7 @@ currently_learning:
   - React Native
   - Node.js
   - Docker
-  - AWS
+  - Data Warehouse
 ```
 
 ---
