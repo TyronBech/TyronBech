@@ -32,10 +32,7 @@ name: Tyron Bechayda
 education: BS Information Technology (4th Year)
 currently_working_on:
   - OwlLib (Library Management System)
-  - OwlLib (Library Management System) Version 2
-  - Full Stack Internship Tasks
   - Personal Portfolio
-  - 8-Bit Suite (Python Game)
   - Vestro (Financial Tracker Mobile App)
   - Faculty Attendance System for PUP Taguig
 currently_learning:
