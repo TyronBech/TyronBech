@@ -89,8 +89,8 @@ currently_learning:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.stats.svg" alt="GitHub Stats" />
-  <img width="49%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.languages.svg" alt="Top Languages" />
+  <img width="100%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.stats.svg" alt="GitHub Stats" />
+  <img width="60%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.languages.svg" alt="Top Languages" />
 </div>
 
 <br>
@@ -112,7 +112,7 @@ currently_learning:
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.achievements.svg" alt="GitHub Achievements" />
+  <img width="95%" src="https://github-trophies.vercel.app/?username=TyronBech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
