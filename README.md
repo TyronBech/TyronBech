@@ -58,20 +58,17 @@ currently_learning:
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,bootstrap,react,tailwind" />
 </a>
 
-
 **Backend & Database**
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,nodejs,expressjs,npm" />
 </a>
 
-
 **Languages**
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs" />
 </a>
-
 
 **Tools**
 
@@ -92,24 +89,30 @@ currently_learning:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TyronBech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=421EF7&icon_color=421EF7&text_color=ffffff&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TyronBech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=421EF7&text_color=ffffff&border_radius=10" alt="Top Languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.languages.svg" alt="Top Languages" />
 </div>
 
 <br>
 
-## 📈 Contribution Activity Graph
-
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TyronBech&bg_color=0D1117&color=421EF7&line=421EF7&point=ffffff&area=true&area_color=421EF7&hide_border=true&radius=8&title_color=ffffff" alt="Contribution Graph" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=TyronBech&theme=tokyonight&hide_border=true&background=0D1117&ring=421EF7&fire=421EF7&currStreakLabel=421EF7&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img width="95%" src="https://github-trophies.vercel.app/?username=TyronBech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+  <img width="95%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.calendar.svg" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/TyronBech/TyronBech/main/metrics.achievements.svg" alt="GitHub Achievements" />
 </div>
 
 ---
