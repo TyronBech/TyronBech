@@ -119,7 +119,11 @@ currently_learning:
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TyronBech/TyronBech/output/snake.svg" alt="Snake animation" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TyronBech/TyronBech/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TyronBech/TyronBech/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/TyronBech/TyronBech/output/snake.svg" width="95%" />
+  </picture>
 </div>
 
 <!-- Footer Wave -->
