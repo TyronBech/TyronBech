@@ -33,16 +33,11 @@ education: BS Information Technology (4th Year)
 currently_working_on:
   - OwlLib (Library Management System)
   - Personal Portfolio
-  - Vestro (Financial Tracker Mobile App)
-  - Faculty Attendance System for PUP Taguig
+  - Laravel Fundamentals
 currently_learning:
-  - React.js
-  - Tailwind CSS
   - Python
   - Modern Frontend Design
-  - React Native
-  - Node.js
-  - Docker
+  - Data Analytics
   - Data Warehouse
 ```
 
