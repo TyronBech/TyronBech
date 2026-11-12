@@ -29,7 +29,7 @@
 
 ```yaml
 name: Tyron Bechayda
-education: BS Information Technology (4th Year)
+education: BS Information Technology
 currently_working_on:
   - OwlLib (Library Management System)
   - Personal Portfolio
